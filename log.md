@@ -66,5 +66,5 @@
 **Thoughts**: Slow and steady wins the race. And APIs rock when they work.
 
 **Link(s) to work**:
-[Local Weather](http://codepen.io/digilou/full/VmJaxy/)
-[100 Days of Code repo](https://github.com/digilou/100-days-of-code)
+1. [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
+2. [100 Days of Code repo](https://github.com/digilou/100-days-of-code)
