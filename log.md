@@ -55,6 +55,16 @@
 
 **Today's Progress**: Started local weather Web app @FreeCodeCamp && submitted some issues @github
 
-**Thoughts**:  Wow! I've done this for a week now!
+**Thoughts**:  Wow! I've done this for a week now! Toggl recorded 10 hours 15 minutes of coding this week.
 
 **Link(s) to work**: [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
+
+### [7] Day 8: 2016-12-27
+
+**Today's Progress**: Forked 100-days-of-code, started reading Eloquent JavaScript, worked on Local Weather app for Free Code Camp
+
+**Thoughts**: Slow and steady wins the race. And APIs rock when they work.
+
+**Link(s) to work**:
+[Local Weather](http://codepen.io/digilou/full/VmJaxy/)
+[100 Days of Code repo](https://github.com/digilou/100-days-of-code)
