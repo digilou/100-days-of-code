@@ -1,30 +1,60 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### [0] Day 1: 2016-12-20
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Eased in with a little #javascript instruction from Codemurai, and CSS media queries @edXOnline
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Let's do this.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** undefined
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### [1] Day 2: 2016-12-21
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: media queries && npm installs && filter() #CSS #javascript #CLI
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: undefined
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: undefined
 
 
-### Day 1: June 27, Monday
+### [2] Day 3: 2016-12-22
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: basicAlgorithmScripts.splice(-2,2) @FreeCodeCamp Created repo @github to revisit my solutions.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Moving forward!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Where do I belong?](https://github.com/digilou/freecodecamp/blob/master/where-do-i-belong.js)
+2. [Caesar's Cipher](https://github.com/digilou/freecodecamp/blob/master/caesars-cipher.js)
+
+### [3] Day 4: 2016-12-23
+
+**Today's Progress**: Started creating a random quote machine @FreeCodeCamp #APIs #webdev
+
+**Thoughts**: Excited to push through some real API projects.
+
+**Link(s) to work**: [Random Quote Machine](http://codepen.io/digilou/full/jVoEdd/)
+
+### [4] Day 5: 2016-12-24
+
+**Today's Progress**: More @FreeCodeCamp API work. Had fun initiating a Mars weather Web app. #justbecause #webdev
+
+**Thoughts**: APIs FTW! Mars 511 has been rattling around my head too long.
+
+**Link(s) to work**: [Mars 511](http://codepen.io/digilou/full/Lbojob/)
+
+### [5] Day 6: 2016-12-25
+
+**Today's Progress**: More work on my Mars weather #webapp @CodePen and @github && completed random quote machine @FreeCodeCamp #APIs
+
+**Thoughts**: Christmas!
+
+**Link(s) to work**: [Mars 511](http://codepen.io/digilou/full/Lbojob/)
+
+### [6] Day 7: 2016-12-26
+
+**Today's Progress**: Started local weather Web app @FreeCodeCamp && submitted some issues @github
+
+**Thoughts**:  Wow! I've done this for a week now!
+
+**Link(s) to work**: [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
