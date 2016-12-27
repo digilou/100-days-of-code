@@ -63,10 +63,11 @@
 
 ### [7] Day 8: 2016-12-27
 
-**Today's Progress**: Forked 100-days-of-code, started reading Eloquent JavaScript, worked on Local Weather app for Free Code Camp
+**Today's Progress**: Forked 100-days-of-code, started reading Eloquent JavaScript, practiced making modular CSS
 
 **Thoughts**: Slow and steady wins the race. And APIs rock when they work.
 
 **Link(s) to work**:
 1.  [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
 2.  [100 Days of Code repo](https://github.com/digilou/100-days-of-code)
+3.  [edX Advanced CSS](https://github.com/digilou/edX-advanced-css)
