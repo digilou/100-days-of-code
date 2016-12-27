@@ -14,7 +14,9 @@
 
 **Thoughts**: undefined
 
-**Link(s) to work**: undefined
+**Link(s) to work**:
+1.  [Falsy Bouncer](https://github.com/digilou/freecodecamp/blob/master/falsy-bouncer.js)
+2.  [Seek and Destroy](https://github.com/digilou/freecodecamp/blob/master/seek-and-destroy.js)
 
 
 ### [2] Day 3: 2016-12-22
@@ -24,8 +26,8 @@
 **Thoughts** Moving forward!
 
 **Link(s) to work**
-1. [Where do I belong?](https://github.com/digilou/freecodecamp/blob/master/where-do-i-belong.js)
-2. [Caesar's Cipher](https://github.com/digilou/freecodecamp/blob/master/caesars-cipher.js)
+1.  [Where do I belong?](https://github.com/digilou/freecodecamp/blob/master/where-do-i-belong.js)
+2.  [Caesar's Cipher](https://github.com/digilou/freecodecamp/blob/master/caesars-cipher.js)
 
 ### [3] Day 4: 2016-12-23
 
@@ -66,5 +68,5 @@
 **Thoughts**: Slow and steady wins the race. And APIs rock when they work.
 
 **Link(s) to work**:
-1. [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
-2. [100 Days of Code repo](https://github.com/digilou/100-days-of-code)
+1.  [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
+2.  [100 Days of Code repo](https://github.com/digilou/100-days-of-code)
