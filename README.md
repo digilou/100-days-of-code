@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
+Inspired by https://medium.com/@ka11away/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b#.9dwdpd7df.
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
