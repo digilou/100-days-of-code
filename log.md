@@ -63,11 +63,18 @@
 
 ### [7] Day 8: 2016-12-27
 
-**Today's Progress**: Forked 100-days-of-code, started reading Eloquent JavaScript, practiced making modular CSS
+**Today's Progress**: Forked 100-days-of-code, started reading Eloquent JavaScript, practiced making modular CSS, applied for Launch School scholarship && assigned to myself a couple of WWC website issues involving Rubocop inspection (cloned repository to Cloud9, installed rubocop gem, ran inspection to find 54 offenses)
 
-**Thoughts**: Slow and steady wins the race. And APIs rock when they work.
+**Thoughts**: Slow and steady wins the race. And getting my feet wet is the only way I'll get better at all the new web dev stuff like Ruby on Rails and PostgresSQL
+
+**Link(s) to work**
+1.  [100 Days of Code repo](https://github.com/digilou/100-days-of-code)
+2.  [edX Advanced CSS](https://github.com/digilou/edX-advanced-css)
+
+### [8] Day 9: 2016-12-28
+
+**Today's Progress**:
+
+**Thoughts**: 
 
 **Link(s) to work**:
-1.  [Local Weather](http://codepen.io/digilou/full/VmJaxy/)
-2.  [100 Days of Code repo](https://github.com/digilou/100-days-of-code)
-3.  [edX Advanced CSS](https://github.com/digilou/edX-advanced-css)
