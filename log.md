@@ -73,8 +73,10 @@
 
 ### [8] Day 9: 2016-12-28
 
-**Today's Progress**:
+**Today's Progress**: Almost 3 hours of work today! After running Rubocop inspection on Women Who Code website, I fixed 6 offenses. After much deliberation of trying to figure out Cloud9 => Github stuff, I finally submitted a pull request for merge through Github itself.
 
-**Thoughts**: 
+**Thoughts**: That took a long time for a quick fix! Plus, I had to leave 10 offenses because the were code related. Felt REALLY good to tweak formatting issues (I'm a Pub Spec, after all), but realized I need to:
+*  learn to clone and push branches to Github (use script WWC has available)
+*  refresh my memory of Ruby syntax
 
-**Link(s) to work**:
+**Link(s) to work**: [Women Who Code website](http://www.womenwhocode.com)
