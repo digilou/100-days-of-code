@@ -90,3 +90,13 @@
 **Link(s) to work**:
 * [Women Who Code website](http://www.womenwhocode.com)
 * [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
+
+### [10] Day 11: 2016-12-30
+
+**Today's Progress**: Created a repo for Eloquent JavaScript solutions && did the first quick exercise of looping to create a hash triangle. More work on Local Weather app - finding code for API, Celsius conversion, switch/case for images, && geolocation user info. Another issue for WWC tackled involving rubocop inspection and correcting spacing issues in Ruby code.
+
+**Thoughts**: This Weather app is weighing me down. But I know I can do this. I'm starting to think other pens I've looked up just had code copied in rather than hand-coded. =[  Want to complete it this weekend because I'm more interested in design, as this point.
+
+**Link(s) to work**:
+* [Women Who Code website](http://www.womenwhocode.com)
+* [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
