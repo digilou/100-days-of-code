@@ -80,3 +80,13 @@
 *  refresh my memory of Ruby syntax
 
 **Link(s) to work**: [Women Who Code website](http://www.womenwhocode.com)
+
+### [9] Day 10: 2016-12-29
+
+**Today's Progress**: Merged branch with WWC which fixed some syntax issues. Wrestled with code for Weather API.
+
+**Thoughts**: MY FIRST PULL REQUEST MERGED WITH WWC!!!
+
+**Link(s) to work**:
+* [Women Who Code website](http://www.womenwhocode.com)
+* [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
