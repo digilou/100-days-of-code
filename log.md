@@ -100,3 +100,13 @@
 **Link(s) to work**:
 * [Women Who Code website](http://www.womenwhocode.com)
 * [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
+
+### [11] Day 12: 2016-12-31
+
+**Today's Progress**: Got weather data to filter in! And jQuery UI radio buttons to toggle between active states, while temp changes. Now working through the change of background images to represent weather.
+
+**Thoughts**: Moving forward! This learning process can help me move forward with my Mars511 app, hopefully! Happy that this should be submitted tomorrow, which will be a great start to 2017! I want to go back and forth between FCC challenges and WWC updates to keep learning something new, but adding some real contribution.
+
+**Link(s) to work**:
+* [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
+
