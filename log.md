@@ -119,3 +119,12 @@
 **Link(s) to work**:
 * [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
 * [Fizz Buzz - Eloquent JavaScript](http://eloquentjavascript.net/code/#2.2)
+
+### [13] Day 14: 2017-1-2
+
+**Today's Progress**: Submitted local weather app project to FCC.
+
+**Thoughts**: Decided to not get bogged down in perfectionism, so I abandoned background image changes in my local weather app. Too many images to gather. Maybe some day I'll go back to it. The API learning has been fun, though!
+
+**Link(s) to work**:
+* [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
