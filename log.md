@@ -110,3 +110,12 @@
 **Link(s) to work**:
 * [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
 
+### [12] Day 13: 2017-1-1
+
+**Today's Progress**: Resolved why background wouldn't change. Solved Eloquent JavaScript's "Fizz Buzz" exercise.
+
+**Thoughts**: Hello, 2017! Let's make this a great year, eh? Happy that my weather app is functional and just needs some tweaks. A little slowed down by Eloquent JavaScript's exercises. They're good! But they remind me that most of my basic JS knowledge is just facts and theories without actually having much practice putting them to use. All in all, it's a good signifier for the rest of the year. Two weeks are behind me now and I'm still motivated to continue and be better, despite any avoidance issues I have with certain JS problem solving...
+
+**Link(s) to work**:
+* [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
+* [Fizz Buzz - Eloquent JavaScript](http://eloquentjavascript.net/code/#2.2)
