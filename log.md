@@ -129,3 +129,12 @@
 **Link(s) to work**:
 * [Local Weather App](http://codepen.io/digilou/full/VmJaxy/)
 * Personal website TBA
+
+### [14] Day 15: 2017-1-3
+
+**Today's Progress**: Worked on Mars 511 scripting/API call. Also, started HTML5 & JavaScript modules on edX.
+
+**Thoughts**: My .getJSON would appear correct, but still no data.
+
+**Link(s) to work**:
+* Mars 511
