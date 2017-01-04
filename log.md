@@ -138,3 +138,12 @@
 
 **Link(s) to work**:
 * Mars 511
+
+### [15] Day 16: 2017-1-4
+
+**Today's Progress**: Started FCC Wikipedia Viewer. Learned a little more about CSS3 flexbox and animation.
+
+**Thoughts**: LOVE working with CSS, but I still need to get up-to-speed on CSS3 tricks. Reminded that I'm still in love with the design part of webpages, but not so much the programming part.
+
+**Link(s) to work**:
+* [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
