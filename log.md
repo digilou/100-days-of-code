@@ -147,3 +147,12 @@
 
 **Link(s) to work**:
 * [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
+
+### [16] Day 17: 2017-1-5
+
+**Today's Progress**: Started adding JavaScript and API call to FCC Wikipedia Viewer. Refreshing my jQuery memory.
+
+**Thoughts**: APIs are hard but so interesting to learn about. I'll keep chipping away at it by reading other code and experimenting on my own. JQuery has been helpful in this, and I'm not ready to leap into Angular or AJAX (as seen in other code).
+
+**Link(s) to work**:
+* [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
