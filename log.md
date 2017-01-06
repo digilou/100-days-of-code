@@ -159,7 +159,7 @@
 
 ### [17] Day 18: 2017-1-6
 
-**Today's Progress**: 
+**Today's Progress**: Worked on my JS for my Wikipedia Viewer for FCC. Learned about .keyup() vs .on('click', target). Also, added the proper link for Random Articles feature.
 
 **Thoughts**: Didn't feel like getting up early, but I reasoned that I better stick with this now, or I'll fall out sooner than later.
 
