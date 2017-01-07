@@ -159,9 +159,18 @@
 
 ### [17] Day 18: 2017-1-6
 
-**Today's Progress**: Worked on my JS for my Wikipedia Viewer for FCC. Learned about .keyup() vs .on('click', target). Also, added the proper link for Random Articles feature.
+**Today's Progress**: Worked on my JS for my Wikipedia Viewer for FCC. Learned about .keyup() vs .on('click', target). Also, added the proper link for Random Articles feature. Started on WWC updates again.
 
 **Thoughts**: Didn't feel like getting up early, but I reasoned that I better stick with this now, or I'll fall out sooner than later.
+
+**Link(s) to work**:
+* [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
+
+### [18] Day 19: 2017-1-7
+
+**Today's Progress**: Worked on my JS for my Wikipedia Viewer for FCC. No data yet.
+
+**Thoughts**: Gah! I feel like my code looks great and makes sense. What am I missing?
 
 **Link(s) to work**:
 * [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
