@@ -174,3 +174,14 @@
 
 **Link(s) to work**:
 * [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
+
+### [19] Day 20: 2017-1-8
+
+**Today's Progress**: Worked on my JS for my Wikipedia Viewer for FCC. After resolving .ajax is more flexible than .getJSON && combing other people's code, I finally got mine working. A little reading in "JavaScript and AJAX for Dummies" and "Learning Web App Developemnt" helped spur me on. ALSO, started my own Github portfolio.
+
+**Thoughts**: Determined to refactor and re-style before turning in. This one drove me nuts! Granted I'm getting a better idea how to access APIs.
+
+**Link(s) to work**:
+* [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
+* [Github Portfolio](https://digilou.github.io)
+
