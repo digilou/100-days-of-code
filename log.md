@@ -188,11 +188,12 @@
 
 ### [20] Day 21: 2017-1-9
 
-**Today's Progress**: Worked on styling for my Wikipedia Viewer for FCC. Updated to make more mobile friendly. I also added more content, structure, and styling to my Github portfolio.
+**Today's Progress**: Worked on styling for my Wikipedia Viewer for FCC. Updated to make more mobile friendly. I also added more content, structure, and styling to my Github portfolio. Plus, added to the WWC README.md file and submitted a pull request.
 
 **Thoughts**: I was more than ready to move on.
 
 **Link(s) to work**:
 * [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
 * [Github Portfolio](https://digilou.github.io)
+* [Women Who Code](http://womenwhocode.org)
 
