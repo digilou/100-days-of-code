@@ -7,3 +7,12 @@
 **Link(s) to work**:
 * [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
 * [Github Portfolio](https://digilou.github.io)
+
+### [22] Day 23: 2017-1-11
+
+**Today's Progress**: Attempted solving a fundamental JavaScript kata in CodeWars in less than an hour, but the server was having problems.
+
+**Thoughts**: The kata challenge gave me a little confidence that SOMETHING is sinking in, even though the fog still exists.
+
+**Link(s) to work**:
+* [CodeWars kata](https://github.com/digilou/code_wars/blob/master/printer_error.js)
