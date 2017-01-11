@@ -190,7 +190,7 @@
 
 **Today's Progress**: Worked on styling for my Wikipedia Viewer for FCC. Updated to make more mobile friendly. I also added more content, structure, and styling to my Github portfolio. Plus, added to the WWC README.md file and submitted a pull request.
 
-**Thoughts**: I was more than ready to move on.
+**Thoughts**: I was more than ready to move on. 3 weeks down already??
 
 **Link(s) to work**:
 * [Wikipedia Viewer](http://codepen.io/digilou/full/ZLEgJL/)
