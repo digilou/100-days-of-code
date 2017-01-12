@@ -10,9 +10,9 @@
 
 ### [22] Day 23: 2017-1-11
 
-**Today's Progress**: Attempted solving a fundamental JavaScript kata in CodeWars in less than an hour, but the server was having problems.
+**Today's Progress**: Attempted solving a JavaScript kata in CodeWars which involved .split() and RegExp.
 
-**Thoughts**: The kata challenge gave me a little confidence that SOMETHING is sinking in, even though the fog still exists.
+**Thoughts**: The kata challenge gave me more confidence that SOMETHING is sinking in. I actually thought through a solution myself and got more than error results for my attempts! I'm still missing something, but I made good progress.
 
 **Link(s) to work**:
 * [CodeWars kata](https://github.com/digilou/code_wars/blob/master/printer_error.js)
