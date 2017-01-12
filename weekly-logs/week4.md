@@ -16,3 +16,12 @@
 
 **Link(s) to work**:
 * [CodeWars kata](https://github.com/digilou/code_wars/blob/master/printer_error.js)
+
+### [23] Day 24: 2017-1-12
+
+**Today's Progress**: Worked on Twitch.tv API for FCC.
+
+**Thoughts**: Didn't feel like getting up, but knowing I'm about a quarter of the way through this challenge, I said, "get up and keep doing this."
+
+**Link(s) to work**:
+* [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
