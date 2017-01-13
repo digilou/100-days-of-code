@@ -25,3 +25,12 @@
 
 **Link(s) to work**:
 * [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
+
+### [24] Day 25: 2017-1-13
+
+**Today's Progress**: Completed JS kata that was eating away at me two days ago after reading up on RegExp in Eloquent JavaScript.
+
+**Thoughts**: Had to get some help on this one, but learned a lot about RegExp and corrected my redundancy in code. After completion I learned about an even better way to code it without if/else. On a high note, I'm a quarter of the way through #100daysofcode!
+
+**Link(s) to work**:
+* [CodeWars kata](https://github.com/digilou/code_wars/blob/master/printer_error.js)
