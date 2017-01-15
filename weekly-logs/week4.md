@@ -43,3 +43,12 @@
 
 **Link(s) to work**:
 * [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
+
+### [26] Day 27: 2017-1-15
+
+**Today's Progress**: Completed FCC Twitch.tv API.
+
+**Thoughts**: Glad that's over! Feel more comfortable with APIs, getJSON, jQuery, if/else, and forEach. But really ready for more exposure in other areas.
+
+**Link(s) to work**:
+* [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
