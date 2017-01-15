@@ -34,3 +34,12 @@
 
 **Link(s) to work**:
 * [CodeWars kata](https://github.com/digilou/code_wars/blob/master/printer_error.js)
+
+### [25] Day 26: 2017-1-14
+
+**Today's Progress**: Worked on Twitch.tv API for FCC. Still wrestling with the JavaScript, but also added more styling for the list output.
+
+**Thoughts**: Feeling more confident in API functionality and JSON. Code doesn't work yet, but at least I'm seeing results and deducing steps to take with Chrome Console. It's nice that the fog is clearing a bit! Either my focus is becoming sharper, or I'm drinking enough caffeine.
+
+**Link(s) to work**:
+* [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
