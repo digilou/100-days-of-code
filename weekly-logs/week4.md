@@ -46,9 +46,10 @@
 
 ### [26] Day 27: 2017-1-15
 
-**Today's Progress**: Completed FCC Twitch.tv API.
+**Today's Progress**: Completed FCC Twitch.tv API. Started FCC Intermediate Algorithm Scripts with an attempt at "Sum all numbers in a range".
 
 **Thoughts**: Glad that's over! Feel more comfortable with APIs, getJSON, jQuery, if/else, and forEach. But really ready for more exposure in other areas.
 
 **Link(s) to work**:
 * [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
+* [Sum All Numbers](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sum-all-numbers.js)
