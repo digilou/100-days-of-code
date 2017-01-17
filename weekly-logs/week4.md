@@ -53,3 +53,12 @@
 **Link(s) to work**:
 * [Twitch.tv API](http://codepen.io/digilou/full/EZVrdE/)
 * [Sum All Numbers](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sum-all-numbers.js)
+
+### [27] Day 28: 2017-1-16
+
+**Today's Progress**: Started Daily CSS Images challenge by creating a bear from pure CSS. Reinforced learning of CSS positioning and z-index. Also... did final install of Lubuntu so I can make my netbook work for me more.
+
+**Thoughts**: Unsure if I'll stick with this because I really need to spend more focus on JS. However, it was fun designing with CSS, since that is my first love.
+
+**Link(s) to work**:
+* [Day 01: Bear](http://codepen.io/digilou/full/BpQNBZ/)
