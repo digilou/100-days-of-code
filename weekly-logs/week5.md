@@ -35,3 +35,12 @@ No real progress to show today.
 
 **Link(s) to work**:
 * [Day 04/05 Daniel Tiger](http://codepen.io/digilou/full/ygMMmX/)
+
+### [32] Day 33: 2017-01-21
+
+**Today's Progress**: Roman numeral convertor for Free Code Camp.
+
+**Thoughts**: A cold has got me down and made my brain foggy. Made an attempt, but wasn't satisfied.
+
+**Link(s) to work**:
+* [Roman numeral converrtor]()
