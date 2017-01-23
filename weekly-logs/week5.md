@@ -44,3 +44,11 @@ No real progress to show today.
 
 **Link(s) to work**:
 * [Roman numeral converrtor]()
+
+### [33] Day 34: 2017-01-22
+
+**Today's Progress**: Deviation day. Started steps to creating my first Alexa app. Mostly steps and admin stuff, but also played with their index.js file a bit.
+
+**Thoughts**: Nice to look at something else! And a good start to getting more familier with Node.js! Plus, it's always exciting to work with something that could go live and be useful.
+
+**Link(s) to work**: N/A
