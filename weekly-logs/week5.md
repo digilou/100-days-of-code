@@ -52,3 +52,13 @@ No real progress to show today.
 **Thoughts**: Nice to look at something else! And a good start to getting more familier with Node.js! Plus, it's always exciting to work with something that could go live and be useful.
 
 **Link(s) to work**: N/A
+
+### [34] Day 35: 2017-01-23
+
+**Today's Progress**: Started attempt an intermediate algorithm for FCC involving Object.keys() and Object.property.hasOwnProperty() with no solution yet. Created a clock for #dailycssimages Day 6 challenge.
+
+**Thoughts**: Love the CSS challenge, though I should be focusing more on JavaScript. Challenged my self to read more about objects and keys/values. Apparently ES2017 offers an Object.value() method, so..... maybe investigate more.
+
+**Link(s) to work**:
+* [Clock](http://codepen.io/digilou/full/YNQEOW/)
+* [Wherefor Art Though scripting](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/wherfore%20art%20thou.js)
