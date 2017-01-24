@@ -57,7 +57,7 @@ No real progress to show today.
 
 **Today's Progress**: Started attempt an intermediate algorithm for FCC involving Object.keys() and Object.property.hasOwnProperty() with no solution yet. Created a clock for #dailycssimages Day 6 challenge.
 
-**Thoughts**: Love the CSS challenge, though I should be focusing more on JavaScript. Challenged my self to read more about objects and keys/values. Apparently ES2017 offers an Object.value() method, so..... maybe investigate more.
+**Thoughts**: Love the CSS challenge, though I should be focusing more on JavaScript. However, I did learn more about animation and keyframes. Challenged myself to read more about objects and keys/values. Apparently ES2017 offers an Object.value() method, so..... maybe investigate more.
 
 **Link(s) to work**:
 * [Clock](http://codepen.io/digilou/full/YNQEOW/)
