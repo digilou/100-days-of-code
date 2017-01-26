@@ -9,8 +9,8 @@
 
 ### [36] Day 37: 2017-01-25
 
-**Today's Progress**: More learning about HTML5 codec types and video features. Learned about git pull --rebase for WWC website updates.
+**Today's Progress**: More learning about HTML5 codec types and video features. Learned about git pull --rebase for WWC website updates, which led me to doing more coding convention updates.
 
-**Thoughts**: Some days you just have to learn to keep going.
+**Thoughts**: Reading was a useful break. As was updating some Ruby code. Sometimes you just gotta be the guy that cleans up the code (which gives me a chance to read and learn from other people's code!).
 
 **Link(s) to work**: N/A
