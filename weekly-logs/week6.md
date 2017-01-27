@@ -14,3 +14,11 @@
 **Thoughts**: Reading was a useful break. As was updating some Ruby code. Sometimes you just gotta be the guy that cleans up the code (which gives me a chance to read and learn from other people's code!). Bonus: more familiarity with Git commands!
 
 **Link(s) to work**: N/A
+
+### [37] Day 38: 2017-01-26
+
+**Today's Progress**: Solved some problems with WWC site for coding conventions. Mostly more learning about rubocop and submitted an issue for discussion. Discovered [CodinGame](http://codingame.com) and ran through one JavaScript tutorial.
+
+**Thoughts**: My cold has set me back a bit from tackling bigger things, but I'm still committed to doing SOMETHING every day.
+
+**Link(s) to work**: N/A
