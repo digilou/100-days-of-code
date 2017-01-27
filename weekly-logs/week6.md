@@ -22,3 +22,12 @@
 **Thoughts**: My cold has set me back a bit from tackling bigger things, but I'm still committed to doing SOMETHING every day.
 
 **Link(s) to work**: N/A
+
+### [38] Day 39: 2017-01-27
+
+**Today's Progress**: Read through more Alexa skill docs to catch up on my City Guide skill progress. Made an attempt at Free Code Camp's "Wherefor Art Thou" intermediate algorithm.
+
+**Thoughts**: I have to sign up for AWS with a credit card so I've been a bit delayed on that project. I'm feeling a little more confident about the direction of my FCC solution. I'm determined to figure out how to use ES2017's Object.entries() as part of my solution. It just seems cleaner.
+
+**Link(s) to work**:
+- [Wherefore Art Thou](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/wherfore%20art%20thou.js)
