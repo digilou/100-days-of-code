@@ -25,9 +25,10 @@
 
 ### [38] Day 39: 2017-01-27
 
-**Today's Progress**: Read through more Alexa skill docs to catch up on my City Guide skill progress. Made an attempt at Free Code Camp's "Wherefor Art Thou" intermediate algorithm.
+**Today's Progress**: Read through more Alexa skill docs to catch up on my City Guide skill progress. Made an attempt at Free Code Camp's "Wherefor Art Thou" intermediate algorithm. Solved a Project Euler problem.
 
-**Thoughts**: I have to sign up for AWS with a credit card so I've been a bit delayed on that project. I'm feeling a little more confident about the direction of my FCC solution. I'm determined to figure out how to use ES2017's Object.entries() as part of my solution. It just seems cleaner.
+**Thoughts**: I have to sign up for AWS with a credit card so I've been a bit delayed on that project. I'm feeling a little more confident about the direction of my FCC solution. I'm determined to figure out how to use ES2017's Object.entries() as part of my solution. It just seems cleaner. Additionally, I solved a Project Euler problem since that was more low-hanging fruit that I could walk away with a little confidence that I have learned SOMETHING in JavaScript.
 
 **Link(s) to work**:
 - [Wherefore Art Thou](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/wherfore%20art%20thou.js)
+- [Project Euler, Problem 1](https://github.com/digilou/project-euler/blob/master/problem-1.js)
