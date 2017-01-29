@@ -32,3 +32,12 @@
 **Link(s) to work**:
 - [Wherefore Art Thou](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/wherfore%20art%20thou.js)
 - [Project Euler, Problem 1](https://github.com/digilou/project-euler/blob/master/problem-1.js)
+
+### [39] Day 40: 2017-01-28
+
+**Today's Progress**: Solve "Wherefor Art Thou" challenge on FCC.
+
+**Thoughts**: GAH!! That took way too long trying to figure it out my way. I finally had to ask for help and got a solution that I understand but am still struggling with satisfaction over it. :(  I think I had more interest in the basic algorithms because I want to avoid these intermediate ones like the plague. But I REALLY want this front-end dev certificate. And I have a milestone set to keep me moving forward. I have to change up projects just to keep me wanting to code.
+
+**Link(s) to work**:
+- [Wherefore Art Thou](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/wherfore%20art%20thou.js)
