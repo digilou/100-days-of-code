@@ -35,9 +35,18 @@
 
 ### [39] Day 40: 2017-01-28
 
-**Today's Progress**: Solve "Wherefor Art Thou" challenge on FCC.
+**Today's Progress**: Solved "Wherefor Art Thou" challenge on FCC.
 
 **Thoughts**: GAH!! That took way too long trying to figure it out my way. I finally had to ask for help and got a solution that I understand but am still struggling with satisfaction over it. :(  I think I had more interest in the basic algorithms because I want to avoid these intermediate ones like the plague. But I REALLY want this front-end dev certificate. And I have a milestone set to keep me moving forward. I have to change up projects just to keep me wanting to code.
 
 **Link(s) to work**:
 - [Wherefore Art Thou](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/wherfore%20art%20thou.js)
+
+### [40] Day 41: 2017-01-29
+
+**Today's Progress**: Back to my Mars 511 API web app. Started a subdomain on my site for it. Spent time trying to work out CORS issue.
+
+**Thoughts**: I'm happy to know my JS code wasn't bad! But console.log() showed that I had a CORS conflict. *throws hands in air* Oh well. I spent a ton of time trying to figure out how to resolve the cross browser origin thing and still use jQuery. May need to resort to vanilla JavaScript, which would be a learning experience in and of itself.
+
+**Link(s) to work**:
+- [Mars 511](http://mars.madwalrus.com)
