@@ -50,3 +50,12 @@
 
 **Link(s) to work**:
 - [Mars 511](http://mars.madwalrus.com)
+
+### [41] Day 42: 2017-01-30
+
+**Today's Progress**: Mars 511 CORS issue (xhr) resolved with JSONP. Spent time on styling after that.
+
+**Thoughts**: It works!!!! Thanks for reading jQuery docs, monitoring Chrome dev console, and putting feelers out on Twitter. Now for the fun part of styling, and dreaming up more features!
+
+**Link(s) to work**:
+- [Mars 511](http://mars.madwalrus.com)
