@@ -53,9 +53,12 @@
 
 ### [41] Day 42: 2017-01-30
 
-**Today's Progress**: Mars 511 CORS issue (xhr) resolved with JSONP. Spent time on styling after that.
+**Today's Progress**: Mars 511 CORS issue (xhr) resolved with JSONP. Spent time on styling after that. Also, edited WWC site to close an issue that involved updated styling preferences.
 
 **Thoughts**: It works!!!! Thanks for reading jQuery docs, monitoring Chrome dev console, and putting feelers out on Twitter. Now for the fun part of styling, and dreaming up more features!
 
+Another red letter moment was contributing to WWC by updating one of their SCSS files for a minor styling update. That was a big (nervous) step forward!
+
 **Link(s) to work**:
 - [Mars 511](http://mars.madwalrus.com)
+- [Women Who Code](http://womenwhocode.com)
