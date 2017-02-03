@@ -19,10 +19,19 @@
 
 ### [44] Day 45: 2017-02-02
 
-**Today's Progress**: Styling updates to WWC .scss files. A little more CSS-love for my Mars web app.
+**Today's Progress**: Styling and content updates for WWC. A little more CSS-love for my Mars web app.
 
-**Thoughts**: I heart design.
+**Thoughts**: I heart design. I also love the feeling I get when I merge my branch to a master project that's governed by someonelse! (merged a content update with WWC)
 
 **Link(s) to work**:
 - WWC website
 - Mars 511
+
+### [45] Day 46: 2017-02-03
+
+**Today's Progress**: Styling updates to WWC .scss files. (correctly this time)
+
+**Thoughts**: I'm still learning about git commands. That's a good thing.
+
+**Link(s) to work**:
+- WWC website
