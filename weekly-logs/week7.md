@@ -44,3 +44,12 @@
 
 **Link(s) to work**:
 - [Mars 511](http://mars.madwalrus.com)
+
+### [47] Day 48: 2017-02-05
+
+**Today's Progress**: Design updates to my Mars web app with a mobile-first approach. Work on incorporating NASA API for Mars images. And continued setup on netbook for web dev environment with Git and Aptana.
+
+**Thoughts**: Design progress is slow, but progress is being made. More concentration on family today rather than deep problem solving.
+
+**Link(s) to work**:
+- [Mars 511](http://mars.madwalrus.com)
