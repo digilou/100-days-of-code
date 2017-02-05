@@ -35,3 +35,12 @@
 
 **Link(s) to work**:
 - WWC website
+
+### [46] Day 47: 2017-02-04
+
+**Today's Progress**: Design updates to my Mars web app with a mobile-first approach.
+
+**Thoughts**: After chatting with the hubby last night, we got more focus for what steps to take next to add enhanced functionality to Mars 511. Pretty excited about working on my own project for fun!
+
+**Link(s) to work**:
+- [Mars 511](http://mars.madwalrus.com)
