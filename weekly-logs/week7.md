@@ -53,3 +53,11 @@
 
 **Link(s) to work**:
 - [Mars 511](http://mars.madwalrus.com)
+
+### [48] Day 49: 2017-02-06
+
+**Today's Progress**: Editing of JavaScript file before submission of Alexa Skill. Rebasing pull request update on WWC site. Started creating Frankenstein's monster with CSS.
+
+**Thoughts**: Gah! Apparently I DO NOT understand rebasing in Git. I'll have to work on it. Alexa Skill is coming along, I just need to spend more time with it. Started on CSS image to regain my footing in confidence again and see some actual results somewhere.
+
+**Link(s) to work**: N/A
