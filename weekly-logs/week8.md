@@ -14,3 +14,12 @@
 **Thoughts**: So... it turned out that I just had to use git push --force to get my rebase changes to work. *sigh* Onward and upward.
 
 **Link(s) to work**: N/A
+
+### [51] Day 52: 2017-02-09
+
+**Today's Progress**: Learned about defensive programming techniques for JSON and HTML5. Completed one FCC intermediate algorithm script involving switch/case, for loop, and arrays. 
+
+**Thoughts**: Still no master at JavaScript, but it feels less intimidating even though I can still feel pretty ignorant some times. And it still feels pretty good being over the hump of the challenge and feel like I'm making progress.
+
+**Link(s) to work**:
+- [Missing DNA]()
