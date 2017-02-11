@@ -22,4 +22,14 @@
 **Thoughts**: Still no master at JavaScript, but it feels less intimidating even though I can still feel pretty ignorant some times. And it still feels pretty good being over the hump of the challenge and feel like I'm making progress.
 
 **Link(s) to work**:
-- [Missing DNA]()
+- [Missing DNA](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/missing-letters.js)
+
+### [52] Day 53: 2017-02-10
+
+**Today's Progress**: Finished learning about defensive programming techniques and started blogging about it. Completed one FCC intermediate algorithm script involving .charCode(), fromCharCode(), and RegExp. 
+
+**Thoughts**: That was an interesting script challenge, but a doozy! I keep plodding through, anyhow. Took 15 minutes at the beginning of the day to do a quick Daily CSS Images challenge of my monster of choice: Elmo.
+
+**Link(s) to work**:
+- [Missing Letters](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/missing-letters.js)
+- [Elmo](http://codepen.io/digilou/pen/xgQLwB)
