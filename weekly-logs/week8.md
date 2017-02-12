@@ -33,3 +33,14 @@
 **Link(s) to work**:
 - [Missing Letters](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/missing-letters.js)
 - [Elmo](http://codepen.io/digilou/pen/xgQLwB)
+
+### [53] Day 54: 2017-02-11
+
+**Today's Progress**: Time spent on intermediate algorthim scripting on Free Code Camp which taught me more about .reduce(), arguments, 
+
+**Thoughts**: I'm still finding that I need help, despite reading. But my understanding is still increasing. And I'm happy that I understand so much more than I did last year at this time. It's nice to be plowing through a few of these, too!
+
+**Link(s) to work**:
+- [Boo Who](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/boo-who.js)
+- [Sorted Union](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sorted-union.js)
+- [Convert HTML Entities](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/convert-html-entities.js)
