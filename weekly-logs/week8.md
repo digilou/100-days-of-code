@@ -36,7 +36,7 @@
 
 ### [53] Day 54: 2017-02-11
 
-**Today's Progress**: Time spent on intermediate algorthim scripting on Free Code Camp which taught me more about .reduce(), arguments, 
+**Today's Progress**: Time spent on intermediate algorthim scripting on Free Code Camp which taught me more about .reduce(), arguments, and Boolean objects (primitive booleans, specifically). 
 
 **Thoughts**: I'm still finding that I need help, despite reading. But my understanding is still increasing. And I'm happy that I understand so much more than I did last year at this time. It's nice to be plowing through a few of these, too!
 
