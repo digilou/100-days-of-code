@@ -44,3 +44,15 @@
 - [Boo Who](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/boo-who.js)
 - [Sorted Union](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sorted-union.js)
 - [Convert HTML Entities](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/convert-html-entities.js)
+
+### [54] Day 55: 2017-02-12
+
+**Today's Progress**: Time spent on intermediate algorthim scripting on Free Code Camp which taught me more about RegExp, replace(), and while loops. Started a CSS image of a beating heart to complete by V-Day.
+
+**Thoughts**: Blah! Will I ever be able to code basic JavaScript without having to read and re-read documentation over and over again??
+
+**Link(s) to work**:
+- [Spinal Tap Case](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/spinal-tap-case.js)
+- [Sum All Odd Fibinocci Numbers](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sum-all-odd-fibonacci-numbers.js)
+- [V-day Heart](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/convert-html-entities.js)
+
