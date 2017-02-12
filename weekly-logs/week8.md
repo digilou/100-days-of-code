@@ -54,5 +54,6 @@
 **Link(s) to work**:
 - [Spinal Tap Case](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/spinal-tap-case.js)
 - [Sum All Odd Fibinocci Numbers](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sum-all-odd-fibonacci-numbers.js)
+- [Sum All Primes](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sum-all-primes.js)
 - [V-day Heart](http://codepen.io/digilou/pen/dNwWjR)
 
