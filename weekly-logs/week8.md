@@ -57,3 +57,11 @@
 - [Sum All Primes](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/sum-all-primes.js)
 - [V-day Heart](http://codepen.io/digilou/pen/dNwWjR)
 
+### [55] Day 56: 2017-02-13
+
+**Today's Progress**: Completed a CSS image of a beating heart for V-Day for my husband.
+
+**Thoughts**: Woohoo! Something fun and imaginitive to share with Tom.
+
+**Link(s) to work**:
+- [Valentine's Heart](http://codepen.io/digilou/full/dNwWjR/)
