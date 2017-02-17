@@ -15,3 +15,13 @@
 
 **Link(s) to work**:
 - Women Who Code
+
+### [58] Day 59: 2017-02-16
+
+**Today's Progress**: Pushed updates to WWC and merged branch. Completed one intermediate FCC algorithm.
+
+**Thoughts**: I hate maths. Well, not really, but I do think that I've just forgotten so much even though I loved algebra in H.S. I feel pretty stupid today spending so much time on one algorithm. I did learn about the Euclidean Algorithm and revisited Array.protoype.reduce again. So I must be getting somewhere because average people don't do these things. Ha!
+
+**Link(s) to work**:
+- Women Who Code
+- [Smallest Common Multiple](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/smallest-common-multiple.js)
