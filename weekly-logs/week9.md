@@ -25,3 +25,13 @@
 **Link(s) to work**:
 - Women Who Code
 - [Smallest Common Multiple](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/smallest-common-multiple.js)
+
+### [59] Day 60: 2017-02-17
+
+**Today's Progress**: More pushed updates to WWC. Made CSS image of Captain America's shield.
+
+**Thoughts**: Design mode with a little bit of code monkey work. I'll need to get back on JavaScript because it slips away so quickly!
+
+**Link(s) to work**:
+- Women Who Code
+- [Captain America](http://codepen.io/digilou/full/NdVgVE/)
