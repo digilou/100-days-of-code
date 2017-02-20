@@ -35,3 +35,21 @@
 **Link(s) to work**:
 - Women Who Code
 - [Captain America](http://codepen.io/digilou/full/NdVgVE/)
+
+### [60] Day 61: 2017-02-18
+
+**Today's Progress**: Completed Codemurai JavaSccript lessons and passed exam.
+
+**Thoughts**: Sick day! Well enough to traverse through phone app course to keep JS flwoing into my brain.
+
+**Link(s) to work**: N/A
+
+### [61] Day 62: 2017-02-19
+
+**Today's Progress**: Completed 2 intermediate algorithm challenges for FCC.
+
+**Thoughts**: Feeling much better! Pushed forward in JS to get more breadth in reduce and filter. Formulating a solution for a problem at work.
+
+**Link(s) to work**:
+- [Finder's Keepers](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/finders-keepers.js)
+- [Drop It](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/drop-it.js)
