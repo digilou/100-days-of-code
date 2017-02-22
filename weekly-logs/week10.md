@@ -16,3 +16,13 @@
 **Link(s) to work**:
 - [Juneau Subreddit](https://www.reddit.com/r/Juneau)
 - [Raven Cafe]
+
+
+### [64] Day 65: 2017-02-22
+
+**Today's Progress**: More editing of Juneau subreddit stylesheet. Worked on creating a bookmarklet to alter background color and text color on webpages.
+
+**Thoughts**: Fun work.
+
+**Link(s) to work**:
+- [Juneau Subreddit](https://www.reddit.com/r/Juneau)
