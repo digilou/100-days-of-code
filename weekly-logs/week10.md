@@ -26,3 +26,14 @@
 
 **Link(s) to work**:
 - [Juneau Subreddit](https://www.reddit.com/r/Juneau)
+
+### [65] Day 66: 2017-02-23
+
+**Today's Progress**: Solved three Free Code Camp intermediate algorithm scripts, thus completing that section.
+
+**Thoughts**: Ecstatic to finish the FCC intermediate algorithms!! Added Array.prototype.every() and arrow function. to my JS toolbox. Introduced to closure. Revisited Object.prototype.hasOwnProperty() and Arguments.
+
+**Link(s) to work**:
+- [Binary Agents](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/binary-agents.js)
+- [Everything Be True](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/everything-be-true.js)
+- [Arguments Optional](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/arguments-optional.js)
