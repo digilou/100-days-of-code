@@ -31,7 +31,7 @@
 
 **Today's Progress**: Solved three Free Code Camp intermediate algorithm scripts, thus completing that section.
 
-**Thoughts**: Ecstatic to finish the FCC intermediate algorithms!! Added Array.prototype.every() and arrow function. to my JS toolbox. Introduced to closure. Revisited Object.prototype.hasOwnProperty() and Arguments.
+**Thoughts**: Ecstatic to finish the FCC intermediate algorithms!! Added Array.prototype.every, Array.from, Array.prototype.some, and arrow function to my JS toolbox. Introduced to closure. Revisited Object.prototype.hasOwnProperty, typeof and Arguments.
 
 **Link(s) to work**:
 - [Binary Agents](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/binary-agents.js)
