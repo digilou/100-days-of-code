@@ -37,3 +37,13 @@
 - [Binary Agents](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/binary-agents.js)
 - [Everything Be True](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/everything-be-true.js)
 - [Arguments Optional](https://github.com/digilou/freecodecamp/blob/master/intermediate-algorithms/arguments-optional.js)
+
+### [66] Day 67: 2017-02-24
+
+**Today's Progress**: Solved two Free Code Camp advanced algorithm scripts (one was already solved, but had been moved to advanced). Started thinking over my portfolio again.
+
+**Thoughts**: The advanced algorithms are more interesting and fun to solve, so far. RegExp and JSON review. Also, I need to start thinking about putting up my portfolio for professionals to find. Not ready for contract work, but necessary for even company work.
+
+**Link(s) to work**:
+- [Vaildate US Telephone Numbers](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/validate-us-tel-nums.js)
+- [Record Collection](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/record-collection.js)
