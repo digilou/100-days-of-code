@@ -47,3 +47,12 @@
 **Link(s) to work**:
 - [Symmetric Differences](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/symmetric-differences.js)
 - [JS Calculator](https://codepen.io/digilou/pen/RpNEea)
+
+### [68] Day 69: 2017-02-26
+
+**Today's Progress**: Started another FCC advanced algorithm challenge. Started recreating portfolio. Watched jQuery videos. Updated design and added some functionality to my JS calculator.
+
+**Thoughts**: Got a lot done today! Wish every day could be that productive.
+
+**Link(s) to work**:
+- [JS Calculator](https://codepen.io/digilou/pen/RpNEea)
