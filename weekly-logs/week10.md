@@ -56,3 +56,12 @@
 
 **Link(s) to work**:
 - [JS Calculator](https://codepen.io/digilou/pen/RpNEea)
+
+### [69] Day 70: 2017-02-27
+
+**Today's Progress**: Solved the list sort problem at work! Created a bookmarklet to help me count those links every time I change the code.
+
+**Thoughts**: Programming is not a part of my job, but today I got paid for it! These were fun and useful projects to work on.
+
+**Link(s) to work**:
+- [ASL A-Z Databases](http://lam.alaska.gov/az/)
