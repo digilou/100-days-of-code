@@ -5,5 +5,5 @@
 **Thoughts**: I messed it up once before after rebasing. Doing it over again, I found myself to be more efficient when working through it all again. Completed in under an hour this time!
 
 **Link(s) to work**:
-- [Exact change](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/exact-change.js);
+- [Exact change](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/exact-change.js)
 - [WWC](https://womenwhocode.com)
