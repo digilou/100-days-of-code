@@ -20,9 +20,10 @@
 
 ### [72] Day 73: 2017-03-02
 
-**Today's Progress**: 
+**Today's Progress**: Solved one advanced algorithm for FCC. Created React logo out of CSS.
 
-**Thoughts**: 
+**Thoughts**: Design is fun. Algorithms... uhhhhh....
 
 **Link(s) to work**:
 - [No Repeats Please](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/no-repeats-please.js)
+- [React logo](http://codepen.io/digilou/full/qrZaVp/)
