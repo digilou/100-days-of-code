@@ -7,3 +7,22 @@
 **Link(s) to work**:
 - [Exact change](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/exact-change.js)
 - [WWC](https://womenwhocode.com)
+
+### [71] Day 72: 2017-03-01
+
+**Today's Progress**: Solved one algorithm for Free Code Camp. Started another.
+
+**Thoughts**: Still plugging along to get my Front End Dev certificate from FCC!
+
+**Link(s) to work**:
+- [Inventory Update](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/inventory-update.js)
+- [No Repeats Please](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/no-repeats-please.js)
+
+### [72] Day 73: 2017-03-02
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+- [No Repeats Please](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/no-repeats-please.js)
