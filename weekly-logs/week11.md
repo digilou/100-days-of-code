@@ -32,9 +32,9 @@
 
 ### [73] Day 74: 2017-03-03
 
-**Today's Progress**: 
+**Today's Progress**: Formation of new portfolio idea. HTML and CSS first, alongside content brainstorming. Began utilizing SCSS for the first time.
 
-**Thoughts**: 
+**Thoughts**: WOW. Today was a flow day. I finally came up with some good ideas for content, and the design started forming after that. And who knew that all this dev reading was sinking in? Suddenly I was able to start writing basic SCSS (variables, nesting) for my portfolio! Thanks, Codepen, for offering an easy to use online front-end dev environment during initial stages. It's much faster than trying to work from a local machine. So so SO pleased that I'm making progress and finally satisfied with the direction it's going!
 
 **Link(s) to work**:
-- [No Repeats Please](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/no-repeats-please.js)
+- [New Portfolio](http://codepen.io/digilou/full/aJObgY/)
