@@ -28,3 +28,13 @@
 - [No Repeats Please](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/no-repeats-please.js)
 - [React logo](http://codepen.io/digilou/full/qrZaVp/)
 - Women Who Code
+
+
+### [73] Day 74: 2017-03-03
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+- [No Repeats Please](https://github.com/digilou/freecodecamp/blob/master/advanced-algorithms/no-repeats-please.js)
