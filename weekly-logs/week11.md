@@ -38,3 +38,21 @@
 
 **Link(s) to work**:
 - [New Portfolio](http://codepen.io/digilou/full/aJObgY/)
+
+### [74] Day 75: 2017-03-04
+
+**Today's Progress**: Worked on CSS layer of portfolio, alongside content creation.
+
+**Thoughts**: Design love day!
+
+**Link(s) to work**:
+- [New Portfolio](http://codepen.io/digilou/full/aJObgY/)
+
+### [75] Day 76: 2017-03-05
+
+**Today's Progress**: More nitty-gritty design with inclusion and mobile in mind.
+
+**Thoughts**: A bit slower progress now that the design is getting more detailed. Added some images which make the page come alive. Lots of experimentation with color scheme and spacing. Stepped into media queries.
+
+**Link(s) to work**:
+- [New Portfolio](http://codepen.io/digilou/full/aJObgY/)
