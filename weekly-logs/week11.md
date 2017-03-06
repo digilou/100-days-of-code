@@ -56,3 +56,12 @@
 
 **Link(s) to work**:
 - [New Portfolio](http://codepen.io/digilou/full/aJObgY/)
+
+### [76] Day 77: 2017-03-06
+
+**Today's Progress**: Added more jQuery (funcitonality) to FCC JS calculator. Starting exploring idea of how to make it keyboard accessible. Set up a Cloud9 workspace for FCC to start contributing to their site and assigning myself to issues. Also, merged a couple of my branches with Women Who Code.
+
+**Thoughts**: Projects are fun. Rather than build something else that didn't contribute to my overall progress, I chose to work on an FCC project. I also have gained enough confidence to start contributing more to open source projects on Github, starting with FCC.
+
+**Link(s) to work**:
+- [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
