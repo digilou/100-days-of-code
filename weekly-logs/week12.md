@@ -29,9 +29,18 @@
 
 ### [80] Day 81: 2017-03-10
 
-**Today's Progress**: 
+**Today's Progress**: Worked on my portfolio by adding some design tweaks, but mostly learned about sending an email from a form with PHP.
 
-**Thoughts**: 
+**Thoughts**: PHP isn't too hard to understand. I think I could get that under my belt, too.
 
 **Link(s) to work**:
-- [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
+- [Portfolio](http://codepen.io/digilou/pen/aJObgY?editors=0100)
+
+### [81] Day 82: 2017-03-11
+
+**Today's Progress**: More work on portfolio.
+
+**Thoughts**: It's a rush to get this up and smoothed out in its basic form for closer-than-ever job applications.
+
+**Link(s) to work**:
+- [Portfolio](http://codepen.io/digilou/pen/aJObgY?editors=0100)
