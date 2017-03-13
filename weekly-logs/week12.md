@@ -44,3 +44,21 @@
 
 **Link(s) to work**:
 - [Portfolio](http://codepen.io/digilou/pen/aJObgY?editors=0100)
+
+### [82] Day 83: 2017-03-12
+
+**Today's Progress**: More work on portfolio. Uploaded to Mad Walrus site
+
+**Thoughts**: Pictures captured. Design tweaks. Form tests.
+
+**Link(s) to work**:
+- [Portfolio](http://madwalrus.com)
+
+### [83] Day 84: 2017-03-13
+
+**Today's Progress**: Refactored code and updated design for Free Code Camp tribute page I created a year ago.
+
+**Thoughts**: WOW, have my web dev skills really improved. I was able to eliminate SO much excess code AND utilize the Bootstrap framework better AND switch to SCSS for convenience. However, I meant to do more productive work on my portfolio, but got sucked into updating code that just looked terrible to me. I'll have to watch out for that. It's a goal, but I need to keep moving forward with undone work yet.
+
+**Link(s) to work**:
+- [Tribute](http://codepen.io/digilou/pen/wMVJrN?editors=1000)
