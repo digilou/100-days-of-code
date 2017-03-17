@@ -28,3 +28,12 @@
 - [MadWalrus](http://madwalrus.com)
 - [WWC](http://womenwhocode.com)
 - [Robot](http://codepen.io/digilou/pen/XMzKNO?editors=1000)
+
+## [87] Day 88: 2017-03-17
+
+**Today's Progress**: Completed CSS robot. Picked up the accessibility issue I submitted for Free Code Camp.
+
+**Thoughts**: CSS art is time-consuming! But so rewarding.
+
+**Link(s) to work**:
+- [Robot](http://codepen.io/digilou/full/XMzKNO/)
