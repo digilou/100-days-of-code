@@ -50,9 +50,9 @@
 
 ## [89] Day 90: 2017-03-19
 
-**Today's Progress**: JavaScript for calculator challenge is getting closer to its finish.
+**Today's Progress**: JavaScript for calculator challenge is getting closer to its finish. Worked through some of Codecademy calculator tutorial to help me along with my jQuery and logic.
 
-**Thoughts**: Good progress!
+**Thoughts**: Good progress! The Internet is a wonderful place to help me along as I struggle with the logic part.
 
 **Link(s) to work**:
 - [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
