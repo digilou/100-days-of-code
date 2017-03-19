@@ -47,3 +47,12 @@
 **Link(s) to work**:
 - [MadWalrus](http://madwalrus.com)
 - [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
+
+## [89] Day 90: 2017-03-19
+
+**Today's Progress**: JavaScript for calculator challenge is getting closer to its finish.
+
+**Thoughts**: Good progress!
+
+**Link(s) to work**:
+- [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
