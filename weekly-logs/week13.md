@@ -37,3 +37,13 @@
 
 **Link(s) to work**:
 - [Robot](http://codepen.io/digilou/full/XMzKNO/)
+
+## [88] Day 89: 2017-03-18
+
+**Today's Progress**: Some work and thought for portfolio. Mostly worked on JavaScript for calculator challenge.
+
+**Thoughts**: I feel like I'm starting to get close. After a week break from this project, it took awhile to get back into the thought process and flow of this and JavaScript.
+
+**Link(s) to work**:
+- [MadWalrus](http://madwalrus.com)
+- [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
