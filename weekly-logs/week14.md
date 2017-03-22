@@ -6,3 +6,12 @@
 
 **Link(s) to work**:
 - [JS Calculator](http://codepen.io/digilou/pen/RpNEea)
+
+## [92] Day 93: 2017-03-22
+
+**Today's Progress**: Started pomodoro clock. Focused on design and code.
+
+**Thoughts**: This time I spent less time designing (best part!) and more time thinking logically through the functionality of it. I felt more like a programmer rather than a designer as I started commenting through the steps I needed to take to make it work. Made me feel good about myself. Feeling a little rushed because I want to meet my goal of earning my front-end certificate on Day 100. Seven days to go with 3 advanced projects to complete....
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
