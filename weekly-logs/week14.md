@@ -15,3 +15,24 @@
 
 **Link(s) to work**:
 - [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
+
+## [93] Day 94: 2017-03-23
+
+**Today's Progress**: Worked on pomodoro timer. More time spent reading through JS docs and other people's tutorials to create timers.
+
+**Thoughts**: ....
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
+
+## [94] Day 95: 2017-03-24
+
+**Today's Progress**: More pomodoro. More tutorials.
+
+**Thoughts**: Getting a bit discouraged, but I really want to do this project!
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
