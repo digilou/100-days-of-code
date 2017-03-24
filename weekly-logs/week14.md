@@ -25,9 +25,6 @@
 **Link(s) to work**:
 - [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
 
-**Link(s) to work**:
-- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
-
 ## [94] Day 95: 2017-03-24
 
 **Today's Progress**: More pomodoro. More tutorials.
