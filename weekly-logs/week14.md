@@ -33,3 +33,21 @@
 
 **Link(s) to work**:
 - [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
+
+## [95] Day 96: 2017-03-25
+
+**Today's Progress**: More pomodoro. More tutorials.
+
+**Thoughts**: Feel like I made some logical progress on my own. I think mornings are best for me before the thoughts and wear of the day set in.
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
+
+## [96] Day 97: 2017-03-26
+
+**Today's Progress**: More pomodoro. More tutorials.
+
+**Thoughts**: Ok, why doesn't my clock face tick down? I feel like I have the right setInterval code and jQuery selectors. Hmm...
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
