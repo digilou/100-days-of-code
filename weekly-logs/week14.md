@@ -51,3 +51,12 @@
 
 **Link(s) to work**:
 - [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
+
+## [97] Day 98: 2017-03-27
+
+**Today's Progress**: Started over with my JavaScript on the pomodoro timer.
+
+**Thoughts**: Got a countdown working by using new Date and vanilla JS. Not the countdown I want, just yet...
+
+**Link(s) to work**:
+- [Pomodoro Clock](https://codepen.io/digilou/pen/qroxaR)
